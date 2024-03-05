@@ -40,7 +40,7 @@
 		?>
 		<br>
 		<div class="container">
-			<img src="images/logo.png">
+			<img src="./images/logo.png">
   			<div class="bs-docs-section">
   				<div class="row">
           			<div class="col-lg-12">
