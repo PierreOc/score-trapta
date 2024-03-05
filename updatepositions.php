@@ -23,8 +23,8 @@
 		fwrite($file, '<td>'.$position.'</td>');
 		fwrite($file, '<td>'.$categ.'</td>');
 		fwrite($file, '<td>'.$club.'</td>');
-		if ($trispot) fwrite($file, '<td><img src="../../images/trispot.png"></td>');
-		else fwrite($file, '<td><img src="../../images/singlespot.png"></td>');
+		if ($trispot) fwrite($file, '<td><img src="./images/trispot.png"></td>');
+		else fwrite($file, '<td><img src="./images/singlespot.png"></td>');
 		fwrite($file, '</tr>');
 		
 	}
